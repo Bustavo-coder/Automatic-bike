@@ -12,4 +12,11 @@ public class Main {
             System.out.println("i = " + i);
         }
     }
+
+    public static class AutomaticBike {
+        boolean igination ;
+        public boolean getIgination() {
+            return igination;
+        }
+    }
 }
